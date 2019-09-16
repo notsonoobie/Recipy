@@ -1,6 +1,6 @@
 # Recipy Project
 
-`**Work in Progress**` :skull:
+__`Work in Progress`__ :skull:
 
 ## Requirements
 
@@ -41,7 +41,7 @@ You will need to have [Node.js](https://nodejs.org/en/download/) and [Git](git-s
 
 ## *Project Description*
 
-This was all possible because of Prof. Jonas Schmedtmann (Github @jonasschmedtmann ).This project was build with the help of Webpack and has latest JavaScript Functionalities. [ *Still work in progress* ]
+This was all possible because of Prof. Jonas Schmedtmann (Github [@jonasschmedtmann](https://github.com/jonasschmedtmann) ).This project was build with the help of Webpack and has latest JavaScript Functionalities. [ *Still work in progress* ]
 
 During this project development, I have learned a lot about ES6+ New Features, Webpack Modules and MVC (Model Controller View) Architecture.
 
@@ -51,7 +51,7 @@ Few Works and add-ons are left which will we completed soon :soon:
 
 ## *Contact Me*
 
-:telephone_reciever:  8928885199
+:phone:   +91-89288-85199
 
 :e-mail:  swastikmedical74@gmail.com
 
