@@ -8,7 +8,7 @@ You will need to have [Node.js](https://nodejs.org/en/download/) and [Git](git-s
 
 ## Installation
 
-    $ git clone :HTTPS-CLONE-ADDRESS
+    $ git clone https://github.com/notsonoobie/Recipy.git
     $ cd Recipy/
     $ npm install
 
